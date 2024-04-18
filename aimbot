@@ -60,7 +60,7 @@ local plrs = game:GetService("Players")
 local presskeytoaim = true; local aimkey = "e"
 local raycast = false
 
-local espupdatetime = 5; autoesp = false
+local espupdatetime = 1; autoesp = false
 
 
 
